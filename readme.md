@@ -10,7 +10,7 @@ Roll #: **DA25M027**
 This assignment aims to deepen your understanding of the challenges in real-world machine 
 learning, specifically in multi-label classification, by utilizing advanced non-linear dimensionality 
 reduction techniques such as t-SNE and Isomap.
-report.pdf summarizes all the results in a PDF.
+yeast_tsne_isomap.pdf summarizes all the results in a PDF.
 
 ## Folder Structure
 
